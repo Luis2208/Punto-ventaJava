@@ -1,0 +1,24 @@
+
+Venta #0| Folio de la venta #VSF8974
+articulo #4|$26|7.0 unidad(es)
+articulo #2|$28|1.0 unidad(es)
+articulo #78|$23|3.0 unidad(es)
+Venta #0| Folio de la venta #VSF1642
+articulo #8|$33|4.0 unidad(es)
+articulo #3|$40 |4.0 unidad(es)
+articulo #200|$35|5.0 unidad(es)
+Venta #0| Folio de la venta #VSF1126
+articulo #300|$16|7.0 unidad(es)
+articulo #500|$64|2.0 unidad(es)
+articulo #289|$19|2.0 unidad(es)
+Venta #0| Folio de la venta #VSF6191
+articulo #419|$17|1.0 unidad(es)
+Venta #0| Folio de la venta #VSF4159
+articulo #417|$17|5.0 unidad(es)
+Venta #0| Folio de la venta #VSF3621
+Venta #0| Folio de la venta #VSF8171
+articulo #5|$25|2.0 unidad(es)
+articulo #416|$18|2.0 unidad(es)
+Venta #0| Folio de la venta #VSF3830
+articulo #419|$17|8.0 unidad(es)
+articulo #8|$33|7.0 unidad(es)
